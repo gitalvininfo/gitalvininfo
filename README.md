@@ -2,7 +2,7 @@
 
 - 🌱 Topics so far: **Web Development (Angular, React, PlainJS), Crash Courses, Blockchain apps, Console applications and much more...**
 - 🚀 I’m currently working on a few new repos every single night. 
-- ⚡ Fun fact: I suck at designing 🤷‍♂️.
+- ⚡ I suck at designing 🤷‍♂️.
 
 <h3 align="left">Languages and Tools I used.</h3>
 <p align="left">  
