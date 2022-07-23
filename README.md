@@ -1,4 +1,4 @@
-### My focus is software development, frontend web, and blockchain app. <br /> I'm trying to find a time to learn Game Dev, Android.
+### My focus is on software development, frontend web (Angular, React), and blockchain app. <br />
 
 - 🌱 Topics so far: **Web Development (Angular, React, PlainJS), Crash Courses, Blockchain apps, Console applications and much more...**
 - 🚀 I’m currently working on a few new repos every single night. 
