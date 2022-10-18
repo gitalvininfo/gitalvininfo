@@ -11,6 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitalvininfo)](https://github.com/gitalvininfo)
 <br/>
+ <h3 align="left">My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitalvininfo" alt="gitalvininfo" /></a> </p
 
 </br> <b> Note: </b> <i> This is my personal github repo. I don't do PR's. </br> </i> 
