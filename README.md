@@ -1,6 +1,4 @@
-### I'm a software engineer with extensive knowledge in Angular, React, Nodejs, C#, TypeScript, NativeScript, and React Native. I'm committed to developing top-notch software solutions and designing exceptional user experiences. <br />
-
-- 🚀 I’m currently working on a few new repos every single night. 
+### I'm a frontend developer with extensive knowledge in Angular, React, Nodejs, and C#. <br />
 
 <h3 align="left">🌱 Languages and Tools I used.</h3>
 <p align="left">  
