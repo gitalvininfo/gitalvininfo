@@ -8,7 +8,7 @@ I find immense joy in developing applications that have a profound impact on peo
 
 ## ⚡ Tech Stack
 
-Here are some of the technologies I've learned along the way.
+These are a few technologies I’ve worked with
 
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
