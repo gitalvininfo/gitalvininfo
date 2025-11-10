@@ -3,7 +3,7 @@
 
 I find immense joy in developing applications that have a profound impact on people's lives.
 
-## 💻 Have a look at my [website](https://gitalvininfo.github.io/).
+## 💻 My [website](https://gitalvininfo.github.io/).
 
 
 ## ⚡ Tech Stack
@@ -28,6 +28,14 @@ These are a few technologies I’ve worked with.
  ![Jasmine](https://img.shields.io/badge/Jasmine-804196?style=for-the-badge&logo=jasmine&logoColor=white) ![Karma](https://img.shields.io/badge/Karma-2bb3c2?style=for-the-badge&logo=karma&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-b53d1b?style=for-the-badge&logo=jest&logoColor=white)
 
  ![Figma](https://img.shields.io/badge/Figma-00000F?style=for-the-badge&logo=figma&logoColor=white) ![AdobeXD](https://img.shields.io/badge/AdobeXD-d91abf?style=for-the-badge&logo=adobexd&logoColor=white)
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
  
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvyanson/)
