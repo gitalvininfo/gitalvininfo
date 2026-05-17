@@ -3,7 +3,7 @@
 
 I am a dedicated Frontend Developer driven by the challenge of building impactful digital experiences. With a focus on precision and user-centric design, I specialize in crafting intuitive interfaces that bridge the gap between complex functionality and seamless interaction. I am committed to continuous learning, ensuring every solution I deliver is both modern and highly performant.
 
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-222222?style=for-the-badge)](https://gitalvininfo.github.io/portfolio/)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-222222?style=for-the-badge)](https://gitalvininfo.github.io/)
 
 ---
 
